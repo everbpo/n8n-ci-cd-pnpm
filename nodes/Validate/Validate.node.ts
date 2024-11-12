@@ -11,6 +11,7 @@ export class Validate implements INodeType {
 		displayName: 'Validate',
 		name: 'validate',
 		group: ['transform'],
+		icon: 'file:logo.svg',
 		version: 1,
 		description: 'Basic Validate',
 		defaults: {
